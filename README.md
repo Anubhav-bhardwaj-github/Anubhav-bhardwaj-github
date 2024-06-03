@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anubhav Bhardwaj
-- 👀 I’m interested in Earning money, investing in cryptocurrency and learning new things
-- 🌱 I’m currently learning Basics of computer science and trading in cryptocurrency
+- 👀 I’m interested in Earning money, and learning new things
+- 🌱 I’m currently learning the Basics of computer science
 - 📫 Reach me by my mail anubhav.bhardwaj0222@gmail.com
 
 <!---
